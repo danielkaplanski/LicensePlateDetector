@@ -1,0 +1,2 @@
+rejestracja_samochodowa 676 1295 768 1336
+rejestracja_samochodowa 1548 1238 1619 1256

@@ -1,0 +1,2 @@
+rejestracja_samochodowa 594 1071 663 1104
+rejestracja_samochodowa 1563 1146 1620 1166

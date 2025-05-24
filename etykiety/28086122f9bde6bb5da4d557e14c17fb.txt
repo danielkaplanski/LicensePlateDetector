@@ -1,0 +1,2 @@
+rejestracja_samochodowa 1245 1130 1437 1178
+rejestracja_samochodowa 448 1030 564 1072

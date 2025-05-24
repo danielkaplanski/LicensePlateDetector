@@ -1,0 +1,2 @@
+rejestracja_samochodowa 1150 1327 1368 1384
+rejestracja_samochodowa 639 1098 715 1130

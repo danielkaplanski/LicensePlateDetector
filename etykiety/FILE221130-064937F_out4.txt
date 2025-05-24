@@ -1,0 +1,2 @@
+rejestracja_samochodowa 1500 1307 1645 1333
+rejestracja_samochodowa 788 1231 884 1270
